@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url("./img/nav_back.png");
+    background-size: cover;
+}
+
+.navbar h1 {
+    color: black;
+    -webkit-text-stroke: 1px white; 
+    font-family: Times, serif, sans-serif;
+    font-size: 40px;
+}
+
+.navbar a{
+    margin-right: 220px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.navbar-logo {
+    width: 120px;
+    height: auto; 
+}
+
